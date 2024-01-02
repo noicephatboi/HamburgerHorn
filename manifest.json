@@ -1,7 +1,7 @@
 {
   "name": "HamburgerHorn",
   "version_number": "1.0.0",
-  "website_url": "",
+  "website_url": "https://github.com/noicephatboi/HamburgerHorn",
   "description": "Changes the clown horn with hamburger",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100",
